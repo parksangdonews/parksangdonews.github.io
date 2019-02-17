@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01d43383-6866-459f-a613-8bad148df21c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/logo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -22,8 +23,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="850">
-                  <caret line="755" column="36" lean-forward="true" selection-start-line="755" selection-start-column="36" selection-end-line="755" selection-end-column="36" />
+                <state relative-caret-position="714">
+                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
                 </state>
               </provider>
             </entry>
@@ -92,7 +93,7 @@
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="426">
-                  <caret line="655" column="62" selection-start-line="655" selection-start-column="62" selection-end-line="655" selection-end-column="62" />
+                  <caret line="665" column="62" selection-start-line="665" selection-start-column="62" selection-end-line="665" selection-end-column="62" />
                 </state>
               </provider>
             </entry>
@@ -192,29 +193,6 @@
               <item name="sangdocomputer" type="b2602c69:ProjectViewProjectNode" />
               <item name="sangdocomputer" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sangdocomputer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sangdocomputer" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sangdocomputer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sangdocomputer" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sangdocomputer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sangdocomputer" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="team" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sangdocomputer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sangdocomputer" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sangdocomputer" type="b2602c69:ProjectViewProjectNode" />
@@ -320,7 +298,7 @@
       <workItem from="1550325964515" duration="15064000" />
       <workItem from="1550341479044" duration="3178000" />
       <workItem from="1550344686470" duration="6102000" />
-      <workItem from="1550387640176" duration="13043000" />
+      <workItem from="1550387640176" duration="14408000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1550349438526</created>
@@ -343,11 +321,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550406080207</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="오타수정, 운영지원비 계좌번호 추가">
+      <created>1550407069584</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550407069584</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43569000" />
+    <option name="totallyTimeSpent" value="44934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="3856" height="2095" extended-state="6" />
@@ -391,7 +376,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="오타수정, 일부 내용 수정" />
     <MESSAGE value="메뉴수정, 내용수정, 맵 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="메뉴수정, 내용수정, 맵 추가" />
+    <MESSAGE value="오타수정, 운영지원비 계좌번호 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="오타수정, 운영지원비 계좌번호 추가" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/vendor/fontawesome-free/css/all.min.css">
@@ -509,8 +495,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="755" column="36" lean-forward="true" selection-start-line="755" selection-start-column="36" selection-end-line="755" selection-end-column="36" />
+        <state relative-caret-position="714">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
