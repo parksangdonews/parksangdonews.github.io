@@ -22,8 +22,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="580">
-                  <caret line="20" column="161" selection-start-line="20" selection-start-column="161" selection-end-line="20" selection-end-column="161" />
+                <state relative-caret-position="551">
+                  <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
                 </state>
               </provider>
             </entry>
@@ -92,7 +92,7 @@
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="426">
-                  <caret line="671" column="62" selection-start-line="671" selection-start-column="62" selection-end-line="671" selection-end-column="62" />
+                  <caret line="672" column="62" selection-start-line="672" selection-start-column="62" selection-end-line="672" selection-end-column="62" />
                 </state>
               </provider>
             </entry>
@@ -297,7 +297,7 @@
       <workItem from="1550325964515" duration="15064000" />
       <workItem from="1550341479044" duration="3178000" />
       <workItem from="1550344686470" duration="6102000" />
-      <workItem from="1550387640176" duration="15535000" />
+      <workItem from="1550387640176" duration="15799000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1550349438526</created>
@@ -369,11 +369,25 @@
       <option name="project" value="LOCAL" />
       <updated>1550409821914</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="og 부분 수정">
+      <created>1550409925226</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1550409925226</updated>
+    </task>
+    <task id="LOCAL-00012" summary="og 부분 수정">
+      <created>1550410053589</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1550410053589</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46061000" />
+    <option name="totallyTimeSpent" value="46325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="3856" height="2095" extended-state="6" />
@@ -539,8 +553,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="20" column="161" selection-start-line="20" selection-start-column="161" selection-end-line="20" selection-end-column="161" />
+        <state relative-caret-position="551">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
         </state>
       </provider>
     </entry>
