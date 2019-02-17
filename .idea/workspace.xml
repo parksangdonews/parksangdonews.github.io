@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01d43383-6866-459f-a613-8bad148df21c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team/bbang.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,14 +18,14 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6148821">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="416">
-                  <caret line="516" column="86" lean-forward="true" selection-start-line="516" selection-start-column="86" selection-end-line="516" selection-end-column="86" />
+                <state relative-caret-position="544">
+                  <caret line="659" lean-forward="true" selection-start-line="659" selection-end-line="659" />
                 </state>
               </provider>
             </entry>
@@ -87,21 +89,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+        <leaf>
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="14574">
-                  <caret line="814" column="30" selection-start-line="814" selection-start-column="30" selection-end-line="814" selection-end-column="30" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/gulpfile.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+                <state relative-caret-position="426">
+                  <caret line="655" column="62" selection-start-line="655" selection-start-column="62" selection-end-line="655" selection-end-column="62" />
                 </state>
               </provider>
             </entry>
@@ -112,15 +105,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>01-full</find>
-      <find>hear</find>
-      <find>thumbnail</find>
-      <find>jpg</find>
-      <find>Montserrat</find>
-      <find>class=&quot;fas fa-shopping-cart fa-stack-1x fa-inverse&quot;</find>
-      <find>fa-shopping-cart</find>
-      <find>about</find>
-      <find>contact</find>
       <find>서울특별시 관악구 낙성대역 3길 30 B-1</find>
       <find>section-subheading</find>
       <find>Threads</find>
@@ -128,10 +112,8 @@
       <find>portfolioModal3</find>
       <find>모의면접 &amp; 취업 세미나</find>
       <find>portfolioModal4</find>
-      <find>게임</find>
       <find>Everyone can be Prime Member.</find>
       <find>PRIME MEMBER OF TTP</find>
-      <find>기타</find>
       <find>세마나</find>
       <find>놓</find>
       <find>Prime</find>
@@ -142,6 +124,17 @@
       <find>plan</find>
       <find>planandevent</find>
       <find>mar</find>
+      <find>게임</find>
+      <find>기타</find>
+      <find>need</find>
+      <find>CONTAC</find>
+      <find>contact</find>
+      <find>secu</find>
+      <find>나 열려 있지만, 멤버 중에 '엄친아'가 없는 이유로, 이 공간이 어쨋든 유지가 될 힘을 낼 만큼의 &quot;4딸라&quot;는 필요합니다. 소득 수준</find>
+      <find>ara</find>
+      <find>NOTICE</find>
+      <find>notice</find>
+      <find>&lt;img</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -162,16 +155,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="636" />
-    <option name="y" value="107" />
+    <option name="x" value="625" />
+    <option name="y" value="80" />
     <option name="width" value="2719" />
     <option name="height" value="1447" />
   </component>
@@ -208,6 +194,12 @@
               <item name="sangdocomputer" type="b2602c69:ProjectViewProjectNode" />
               <item name="sangdocomputer" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sangdocomputer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sangdocomputer" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sangdocomputer" type="b2602c69:ProjectViewProjectNode" />
@@ -261,6 +253,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
@@ -274,16 +268,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\img\team" />
+      <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\img" />
+      <recent name="C:\Users\parks\IdeaProjects\sangdocomputer" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\img" />
       <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\img\team" />
       <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\img\about" />
-      <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\img" />
       <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\img" />
-      <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\img\team" />
-      <recent name="C:\Users\parks\IdeaProjects\sangdocomputer" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -328,7 +322,7 @@
       <workItem from="1550325964515" duration="15064000" />
       <workItem from="1550341479044" duration="3178000" />
       <workItem from="1550344686470" duration="6102000" />
-      <workItem from="1550387640176" duration="2494000" />
+      <workItem from="1550387640176" duration="12051000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1550349438526</created>
@@ -337,17 +331,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550349438526</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="오타수정, 일부 내용 수정">
+      <created>1550390264182</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550390264182</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33020000" />
+    <option name="totallyTimeSpent" value="42577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="3856" height="2095" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07293312" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07293312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -357,7 +358,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32953683" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.84334207" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2615776" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2615776" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -383,7 +384,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="오타수정, 일부 내용 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="오타수정, 일부 내용 수정" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/vendor/fontawesome-free/css/all.min.css">
@@ -501,8 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="516" column="86" lean-forward="true" selection-start-line="516" selection-start-column="86" selection-end-line="516" selection-end-column="86" />
+        <state relative-caret-position="544">
+          <caret line="659" lean-forward="true" selection-start-line="659" selection-end-line="659" />
         </state>
       </provider>
     </entry>
