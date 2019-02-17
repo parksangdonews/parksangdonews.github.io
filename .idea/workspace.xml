@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01d43383-6866-459f-a613-8bad148df21c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/logo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -23,8 +22,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="714">
-                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+                <state relative-caret-position="725">
+                  <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
                 </state>
               </provider>
             </entry>
@@ -93,7 +92,7 @@
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="426">
-                  <caret line="665" column="62" selection-start-line="665" selection-start-column="62" selection-end-line="665" selection-end-column="62" />
+                  <caret line="672" column="62" selection-start-line="672" selection-start-column="62" selection-end-line="672" selection-end-column="62" />
                 </state>
               </provider>
             </entry>
@@ -155,10 +154,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="625" />
-    <option name="y" value="80" />
+    <option name="x" value="525" />
+    <option name="y" value="21" />
     <option name="width" value="2719" />
-    <option name="height" value="1447" />
+    <option name="height" value="1851" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -298,7 +297,7 @@
       <workItem from="1550325964515" duration="15064000" />
       <workItem from="1550341479044" duration="3178000" />
       <workItem from="1550344686470" duration="6102000" />
-      <workItem from="1550387640176" duration="14408000" />
+      <workItem from="1550387640176" duration="15022000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1550349438526</created>
@@ -328,11 +327,25 @@
       <option name="project" value="LOCAL" />
       <updated>1550407069584</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="SEO 추가">
+      <created>1550408808603</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550408808603</updated>
+    </task>
+    <task id="LOCAL-00006" summary="seo 수정">
+      <created>1550409188965</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1550409188965</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44934000" />
+    <option name="totallyTimeSpent" value="45548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="3856" height="2095" extended-state="6" />
@@ -377,7 +390,9 @@
     <MESSAGE value="오타수정, 일부 내용 수정" />
     <MESSAGE value="메뉴수정, 내용수정, 맵 추가" />
     <MESSAGE value="오타수정, 운영지원비 계좌번호 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="오타수정, 운영지원비 계좌번호 추가" />
+    <MESSAGE value="SEO 추가" />
+    <MESSAGE value="seo 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="seo 수정" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/vendor/fontawesome-free/css/all.min.css">
@@ -495,8 +510,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="725">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
