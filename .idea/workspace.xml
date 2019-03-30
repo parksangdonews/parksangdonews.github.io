@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01d43383-6866-459f-a613-8bad148df21c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/team/jhj.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/team/jhs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/team/ldh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/team/lth.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/team/pjs.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -27,8 +22,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="353">
-                  <caret line="754" column="91" lean-forward="true" selection-start-line="754" selection-start-column="91" selection-end-line="754" selection-end-column="91" />
+                <state relative-caret-position="666">
+                  <caret line="236" column="20" selection-start-line="236" selection-start-column="20" selection-end-line="236" selection-end-column="20" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -340,7 +335,7 @@
       <workItem from="1551279189711" duration="758000" />
       <workItem from="1551484679466" duration="102000" />
       <workItem from="1553869387022" duration="1085000" />
-      <workItem from="1553959656655" duration="4398000" />
+      <workItem from="1553959656655" duration="4622000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1550349438526</created>
@@ -510,11 +505,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552817098432</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="added. supporter's photo and etc.">
+      <created>1553964163814</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1553964163814</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67821000" />
+    <option name="totallyTimeSpent" value="68045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="3856" height="2095" extended-state="6" />
@@ -566,7 +568,8 @@
     <MESSAGE value="Copyright 부분 수정" />
     <MESSAGE value="added. Donation Progress Bar." />
     <MESSAGE value="added. 4$ issue solved." />
-    <option name="LAST_COMMIT_MESSAGE" value="added. 4$ issue solved." />
+    <MESSAGE value="added. supporter's photo and etc." />
+    <option name="LAST_COMMIT_MESSAGE" value="added. supporter's photo and etc." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/vendor/fontawesome-free/css/all.min.css">
@@ -684,8 +687,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="754" column="91" lean-forward="true" selection-start-line="754" selection-start-column="91" selection-end-line="754" selection-end-column="91" />
+        <state relative-caret-position="666">
+          <caret line="236" column="20" selection-start-line="236" selection-start-column="20" selection-end-line="236" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
