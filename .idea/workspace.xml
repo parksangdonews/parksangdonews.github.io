@@ -22,8 +22,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="798">
-                  <caret line="241" column="29" lean-forward="true" selection-start-line="241" selection-start-column="29" selection-end-line="241" selection-end-column="29" />
+                <state relative-caret-position="966">
+                  <caret line="235" column="100" lean-forward="true" selection-start-line="235" selection-start-column="24" selection-end-line="235" selection-end-column="100" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -103,7 +103,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="143">
+                <state relative-caret-position="852">
                   <caret line="205" selection-start-line="201" selection-start-column="10" selection-end-line="205" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -127,7 +127,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>모의면접 &amp; 취업 세미나</find>
       <find>portfolioModal4</find>
       <find>Everyone can be Prime Member.</find>
       <find>PRIME MEMBER OF TTP</find>
@@ -157,6 +156,7 @@
       <find>ABOUT</find>
       <find>need</find>
       <find>21.3</find>
+      <find>101</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -178,10 +178,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1360" />
-    <option name="height" value="962" />
+    <option name="x" value="868" />
+    <option name="width" value="2484" />
+    <option name="height" value="1708" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -189,6 +188,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -254,7 +254,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -338,7 +337,14 @@
       <workItem from="1553959656655" duration="4725000" />
       <workItem from="1554023462651" duration="2227000" />
       <workItem from="1554645140082" duration="15000" />
-      <workItem from="1554645173881" duration="252000" />
+      <workItem from="1554645173881" duration="1082000" />
+      <workItem from="1554907780404" duration="12000" />
+      <workItem from="1555593229244" duration="611000" />
+      <workItem from="1555770744940" duration="599000" />
+      <workItem from="1555774171982" duration="1836000" />
+      <workItem from="1555939303058" duration="22000" />
+      <workItem from="1556458138332" duration="1242000" />
+      <workItem from="1557922257956" duration="147000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1550349438526</created>
@@ -529,17 +535,24 @@
       <option name="project" value="LOCAL" />
       <updated>1554023615815</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="added , supporter's info.">
+      <created>1554645435620</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1554645435620</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70642000" />
+    <option name="totallyTimeSpent" value="75941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="3856" height="2095" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.05529226" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10005266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -554,7 +567,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.096692115" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.04274809" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.49126804" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -705,8 +718,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="241" column="29" lean-forward="true" selection-start-line="241" selection-start-column="29" selection-end-line="241" selection-end-column="29" />
+        <state relative-caret-position="966">
+          <caret line="235" column="100" lean-forward="true" selection-start-line="235" selection-start-column="24" selection-end-line="235" selection-end-column="100" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
