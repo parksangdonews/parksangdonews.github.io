@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01d43383-6866-459f-a613-8bad148df21c" name="Default Changelist" comment="added , supporter's info.">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+    <list default="true" id="01d43383-6866-459f-a613-8bad148df21c" name="Default Changelist" comment="arranged suppoters list">
+      <change afterPath="$PROJECT_DIR$/img/team/jbs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team/pjsjr.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,39 +16,8 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>portfolioModal4</find>
-      <find>Everyone can be Prime Member.</find>
-      <find>PRIME MEMBER OF TTP</find>
-      <find>세마나</find>
-      <find>놓</find>
-      <find>Prime</find>
-      <find>양심</find>
-      <find>whatwedo</find>
-      <find>portfolio</find>
-      <find>plannevent</find>
-      <find>plan</find>
-      <find>planandevent</find>
-      <find>mar</find>
-      <find>게임</find>
-      <find>기타</find>
-      <find>CONTAC</find>
-      <find>contact</find>
-      <find>secu</find>
-      <find>나 열려 있지만, 멤버 중에 '엄친아'가 없는 이유로, 이 공간이 어쨋든 유지가 될 힘을 낼 만큼의 &quot;4딸라&quot;는 필요합니다. 소득 수준</find>
-      <find>ara</find>
-      <find>NOTICE</find>
-      <find>notice</find>
-      <find>&lt;img</find>
-      <find>books</find>
-      <find>dog</find>
-      <find>Your</find>
-      <find>ABOUT</find>
-      <find>need</find>
-      <find>21.3</find>
-      <find>101</find>
-    </findStrings>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,24 +42,28 @@
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/img/team" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\parks\IdeaProjects\parksangdonews.github.io\img\team" />
+      <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\img\team" />
+      <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\img" />
+      <recent name="C:\Users\parks\IdeaProjects\sangdocomputer" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\img\team" />
       <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\img" />
       <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\img\about" />
       <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\css" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\img\team" />
-      <recent name="C:\Users\parks\IdeaProjects\sangdocomputer\img" />
-      <recent name="C:\Users\parks\IdeaProjects\sangdocomputer" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -154,7 +127,9 @@
       <workItem from="1555939303058" duration="22000" />
       <workItem from="1556458138332" duration="1242000" />
       <workItem from="1557922257956" duration="147000" />
-      <workItem from="1563107066684" duration="687000" />
+      <workItem from="1563107066684" duration="1332000" />
+      <workItem from="1563546389062" duration="605000" />
+      <workItem from="1563672025803" duration="5168000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1550349438526</created>
@@ -352,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1554645435620</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="added , supporter's info.">
+      <created>1563107765673</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1563107765673</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,6 +354,7 @@
     <MESSAGE value="added. 4$ issue solved." />
     <MESSAGE value="added. supporter's photo and etc." />
     <MESSAGE value="added , supporter's info." />
-    <option name="LAST_COMMIT_MESSAGE" value="added , supporter's info." />
+    <MESSAGE value="arranged suppoters list" />
+    <option name="LAST_COMMIT_MESSAGE" value="arranged suppoters list" />
   </component>
 </project>
