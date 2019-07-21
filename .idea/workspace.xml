@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01d43383-6866-459f-a613-8bad148df21c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/team/pjsjr2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +25,6 @@
         <entry key="$PROJECT_DIR$" value="io" />
       </map>
     </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="868" />
-    <option name="width" value="2484" />
-    <option name="height" value="1708" />
   </component>
   <component name="ProjectId" id="1O0GNyv5s1XZfANznHTGaVQfn9J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -126,7 +123,7 @@
       <workItem from="1557922257956" duration="147000" />
       <workItem from="1563107066684" duration="1332000" />
       <workItem from="1563546389062" duration="605000" />
-      <workItem from="1563672025803" duration="5327000" />
+      <workItem from="1563672025803" duration="5639000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1550349438526</created>
@@ -338,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563677207494</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="arranged suppoters list">
+      <created>1563677425539</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1563677425539</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
